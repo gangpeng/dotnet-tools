@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DumpAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "-f Q:\\containers.dmp -s -h -c -d -l 500"
+    }
+  }
+}
